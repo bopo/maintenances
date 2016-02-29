@@ -1,0 +1,7 @@
+fabric_deploy
+docker-fabric
+django-fabric
+fabric
+fabric-gunicorn
+git+https://github.com/andrewsomething/fabric-package-management.git
+git+https://github.com/waylybaye/fabric-template.git
