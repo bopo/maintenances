@@ -1,2 +1,2 @@
 # maintenances
-maintenances 是收集以及整理的服务器运维工具以及一些脚本。
+服务器运维脚本整理
